@@ -7,6 +7,9 @@ skip-lint = false
 [programs.localnet]
 giftsol = "95tdskrYsT3f2eCQAh9GUkrZWFo8rTM8aob1BhYcCFFS"
 
+[programs.devnet]
+giftsol = "95tdskrYsT3f2eCQAh9GUkrZWFo8rTM8aob1BhYcCFFS"
+
 [registry]
 url = "https://api.apr.dev"
 
